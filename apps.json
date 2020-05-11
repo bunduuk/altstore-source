@@ -1,0 +1,335 @@
+﻿{
+  "name": "Bunduuk's AltStore Repo",
+  "identifier": "com.bunduuk.source",
+  "apps": [
+    {
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "XITRIX",
+      "subtitle": "iOS torrent client app",
+      "version": "1.7.4.1",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "Fixes and UI Improvements",
+      "downloadURL": "https://bitbucket.org/bunduuk/altstore/src/master/ipa/iTorrent/iTorrent.ipa?raw=true",
+      "localizedDescription": "iTorrent is a torrent client for iOS with Files app support.",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/iTorrent/icon.png",
+      "tintColor": "a1261b",
+      "size": 20132659,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/iTorrent/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/iTorrent/screen2.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/iTorrent/screen3.png",
+		    "https://bitbucket.org/bunduuk/altstore/src/master/img/iTorrent/screen4.png"
+      ]
+    },
+    {
+      "name": "iNDS",
+      "bundleIdentifier": "net.nerd.iNDS-true",
+      "developerName": "iNDS-Team",
+      "subtitle": "The reveal of the Nintendo DS emualtor",
+      "version": "1.10.7",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "Fixes Darkmode, and other Improvemnts",
+      "downloadURL": "https://bitbucket.org/bunduuk/altstore/src/master/ipa/iNDS/iNDS.ipa?raw=true",
+      "localizedDescription": "iNDS is a Nintendo DS emulator, based on nds4ios. With More features.",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/iNDS/icon.png",
+      "tintColor": "f36409",
+      "size": 8576690,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/iNDS/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/iNDS/screen2.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/iNDS/screen3.png"
+      ]
+    },
+    {
+      "name": "unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "Pwn20wnd & Sam Bingner",
+      "subtitle": "unlock the power of you're device",
+      "version": "4.3.1",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "Made the following changes for the substitute code substitutor:\n\n• Bumped version to 4.3.1 due to a github bug causing an older file to be temporarily available\n• Add support for rebooting the userspace for the first time in a jailbreak\n• Add support for injecting to the entire userspace\n• Add support for looking up or registering services from the sandbox with the cy: prefix for developers\n• Reboot the userspace after jailbreaking\n• Make major design changes to preserve stock system performance\n• Fix random reboots, freezes, memory issues and any known problem that affected system services or apps\n• Fix persistent software update blocker on iOS 13 (Works in the jailed state too)\n• Fix a design problem that affected the Succession restore tool\n• Automatically re-enable software updates when restoring RootFS",
+      "downloadURL": "https://bitbucket.org/bunduuk/altstore/src/master/ipa/unc0ver/unc0ver.ipa?raw=true",
+      "localizedDescription": "Unlock the True Power of you're iDevice. unc0ver is the most most advanced jailbreak tool yet for iOS 11 - 13.3 A7-A13! ",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/unc0ver/icon.png",
+      "tintColor": "5a605c",
+      "size": 35483648,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/unc0ver/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/unc0ver/screen2.png"
+      ]
+    },
+    {
+      "name": "Flappy Bird",
+      "bundleIdentifier": "com.brandon.flappybird",
+      "developerName": "unknown",
+      "subtitle": "The forgotten game",
+      "version": "1.0",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "No Changes Recorded",
+      "downloadURL": "https://bitbucket.org/bunduuk/altstore/src/master/ipa/FlappyBird/FlappyBird.ipa?raw=true",
+      "localizedDescription": "Flap your wings and avoid hitting the pipes! Who can beat his own Record?",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/FlappyBird/icon.png",
+      "tintColor": "0ee3d9",
+      "size": 66416640,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/FlappyBird/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/FlappyBird/screen2.png"
+      ]
+    },
+    {
+      "name": "GBA4iOS",
+      "bundleIdentifier": "com.rileytestut.GBA4iOS",
+      "developerName": "Riley testut",
+      "subtitle": "Game Boy games in your pocket.",
+      "version": "2.1",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "No Changes Recorded",
+      "downloadURL": "https://bitbucket.org/bunduuk/altstore/src/master/ipa/GBA4iOS/GBA4iOS.ipa?raw=true",
+      "localizedDescription": "GBA4iOS is the awesome GBA emulator by Riley Testut!",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/GBA4iOS/icon.png",
+      "tintColor": "0871da",
+      "size": 7924507,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/GBA4iOS/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/GBA4iOS/screen2.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/GBA4iOS/screen3.png",
+	    	"https://bitbucket.org/bunduuk/altstore/src/master/img/GBA4iOS/screen4.png"
+      ]
+    },
+    {
+      "name": "UTM",
+      "bundleIdentifier": "com.osy86.UTM",
+      "developerName": "osy",
+      "subtitle": "Run Virtual Machines on iOS",
+      "version": "1.0-rc1",
+      "versionDate": "2020-04-05",
+      "versionDescription": "Changelog:\nhttps://github.com/utmapp/UTM/releases/tag/v1.0-rc1",
+      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v1.0-rc1/UTM.ipa",
+      "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad. More information at https://getutm.app/\n\nFeatures:\n\n• Emulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n• Run any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n• Fast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n• High Compatibility\niOS 11+ supported. Works on iPhone and iPad. No jailbreak needed\n• Free and Open Source\nUTM and its dependencies are all free and open source\n• Easy to Use\nConfigure and customize your VM in a native UI",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/UTM/icon.png",
+      "tintColor": "1a2cc2",
+      "size": 127016960,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/UTM/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/UTM/screen2.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/UTM/screen3.png",
+	    	"https://bitbucket.org/bunduuk/altstore/src/master/img/UTM/screen4.png",
+		    "https://bitbucket.org/bunduuk/altstore/src/master/img/UTM/screen5.png",
+	    	"https://bitbucket.org/bunduuk/altstore/src/master/img/UTM/screen6.png"
+      ]
+    },
+    {
+      "name": "Provenance",
+      "bundleIdentifier": "com.provenance-emu.provenance",
+      "developerName": "Provenance Team",
+      "subtitle": "An iOS Frontend for Multiple Emulators",
+      "version": "1.4",
+      "versionDate": "2018-03-13",
+      "versionDescription": "New Features:\nPlayStation core\nPokémon mini core\nVirtual Boy core\nAtari 7800 & Lynx core\nNeo Geo Pocket / Neo Geo Pocket Color core\nPC Engine / TurboGrafx-16 (CD) core\nSuperGrafx core\nPC-FX core\nWonderSwan core\nCRT Shader\n\nImprovements\nImporter improvements (MD5 matching and performance improvements)",
+      "downloadURL": "https://bitbucket.org/bunduuk/altstore/src/master/ipa/Provenance/Provenance.ipa?raw=true",
+      "localizedDescription": "Relive the golden age of gaming.\n\nProvenance brings together a collection of classic gaming console emulators into a single app for your iPhone or iPad, with support for Apple Game Controllers for that authentic experience.",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/Provenance/icon.png",
+      "tintColor": "1368a0",
+      "size": 23191552,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/Provenance/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/Provenance/screen2.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/Provenance/screen3.png"
+      ]
+    },
+    {
+      "name": "Spotify++",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "@iJulioverne",
+      "subtitle": "Frii Premium",
+      "version": "8.4.43",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "No Changes Recorded",
+      "downloadURL": "https://bitbucket.org/bunduuk/altstore/src/master/ipa/Spotify/Spotify.ipa?raw=true",
+      "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/Spotify/icon.png",
+      "tintColor": "101216",
+      "size": 62287872,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/Spotify/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/Spotify/screen2.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/Spotify/screen3.png"
+      ]
+    },
+    {
+      "name": "YouTube++",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Unlimapps",
+      "subtitle": "Youtube Premium Free",
+      "version": "13.02.9",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "No Changes Recorded",
+      "downloadURL": "https://bitbucket.org/bunduuk/altstore/src/master/ipa/youtube/youtube.ipa?raw=true",
+      "localizedDescription": "YouTube Premium Features Free!",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/youtube/icon.png",
+      "tintColor": "f00b00",
+      "size": 96894976,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/youtube/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/youtube/screen2.png"
+      ]
+    },
+    {
+      "name": "Chimera",
+      "bundleIdentifier": "com.electrateam.chimera",
+      "developerName": "Electra Team",
+      "subtitle": "iOS 12.0 - 12.4 Jailbreak",
+      "version": "1.4.0",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "No Changes Recorded",
+      "downloadURL": "https://bitbucket.org/bunduuk/altstore/src/master/ipa/Chimera/Chimera.ipa?raw=true",
+      "localizedDescription": "Jailbreak iOS 12.0 - 12.2 and iOS 12.4",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/Chimera/icon.png",
+      "tintColor": "9af1f3",
+      "size": 91357184,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/Chimera/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/Chimera/screen2.png"
+      ]
+    },
+    {
+      "name": "Sileo Demo",
+      "bundleIdentifier": "org.coolstar.SileoDemo",
+      "developerName": "Coolstar",
+      "subtitle": "Demo from Sileo",
+      "version": "1.4.1",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "No Changes Recorded",
+      "downloadURL": "https://bitbucket.org/bunduuk/altstore/src/master/ipa/Sileo/Sileo.ipa?raw=true",
+      "localizedDescription": "This is only a Demo it will install nothing!!!",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/Sileo/icon.png",
+      "tintColor": "0de6cd",
+      "size": 7794688,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/Sileo/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/Sileo/screen2.png"
+      ]
+    },
+    {
+      "name": "Watusi for WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "Fouad Raheb",
+      "subtitle": "Get more features in WhatsApp",
+      "version": "2.20.31",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "No changes recorded",
+      "downloadURL": "https://bitbucket.org/bunduuk/altstore/src/master/ipa/WhatsApp/WhatsApp.ipa?raw=true",
+      "localizedDescription": "WhatsApp Watusi brings a bunch of useful new features to WhatsApp such as:\n\n - Disable read receipts\n - Freeze your last seen status\n - Disable delivery and typing indicators\n - Select unlimited number of photos to send\n - Password-protect the app\n - Call recorder\n - Lock chats\n - Enables send button while offline\n - Customization of the app's user interface",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/WhatsApp/icon.png",
+      "tintColor": "0af309",
+      "size": 89559040,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/WhatsApp/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/WhatsApp/screen2.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/WhatsApp/screen3.png"
+      ]
+    },
+    {
+      "name": "RetroArch",
+      "bundleIdentifier": "com.libretro.dist.ios.RetroArch",
+      "developerName": "libretro",
+      "subtitle": "All-In-One Retro Console Emulator",
+      "version": "1.8.5",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "No changes recorded",
+      "downloadURL": "https://bitbucket.org/bunduuk/altstore/src/master/ipa/RetroArch/RetroArch.ipa",
+      "localizedDescription": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/RetroArch/icon.png",
+      "tintColor": "000000",
+      "size": 252620800,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/RetroArch/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/RetroArch/screen2.png"
+      ]
+    },
+    {
+      "name": "FilzaEscaped 13.4.1",
+      "bundleIdentifier": "com.dry05.filzaescaped13.4.1",
+      "developerName": "@AppleDry05",
+      "subtitle": "Free Premium (Press Purchase then press Cancel)",
+      "version": "2.0.7",
+      "versionDate": "2020-5-02",
+      "versionDescription": "No changes recorded",
+      "downloadURL": "https://bitbucket.org/bunduuk/altstore/src/master/ipa/FilzaEscaped/FilzaEscaped13.4.1.ipa?raw=true",
+      "localizedDescription": "Filza for non jailbroken devices, works with iOS 13.4.1 (older versions hasn’t tested yet), should support devices!",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/FilzaEscaped/icon.png",
+      "tintColor": "00ffd9",
+      "size": 14581760,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/FilzaEscaped/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/FilzaEscaped/screen2.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/FilzaEscaped/screen3.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/FilzaEscaped/screen4.png"
+      ]
+    },
+    {
+      "name": "Lensa: Photo Editor",
+      "bundleIdentifier": "com.lensa.app",
+      "developerName": "Prisma Labs, Inc.",
+      "subtitle": "Filza for non-jb",
+      "version": "3.5",
+      "versionDate": "2020-5-02",
+      "versionDescription": "No changes recorded",
+      "downloadURL": "https://bitbucket.org/bunduuk/altstore/src/master/ipa/Lensa/Lensa2.0.7.ipa?raw=true",
+      "localizedDescription": "Lensa is a brand new way of making your selfies look better, than you could have ever imagined. Forget about conventional filters and photo editing tools. We bring you the simplest, yet the most practical mobile app to date for perfecting your selfies on the go. So, if there’s anything you think should be corrected in your selfie, you now have this amazing, simple app to help you.",
+      "iconURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/Lensa/icon.png",
+      "tintColor": "00ffd9",
+      "size": 25354240,
+      "screenshotURLs": [
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/Lensa/screen1.png",
+        "https://bitbucket.org/bunduuk/altstore/src/master/img/Lensa/screen2.png"
+      ]
+    }
+  ],
+
+  "news": [
+  	  		{
+			"title": "Welcome to CrafterPika's AltStore Repo",
+			"identifier": "Welcome",
+			"caption": "Hi! Welcome to Bunduuk's Repo! My personal repo! | @apurvaleo (Twitter)",
+			"tintColor": "e17e00",
+			"url": "https://bitbucket.org/bunduuk/altstore/src/master",
+			"date": "2020-03-24",
+			"notify": false
+		},
+    {
+      "title": "unc0ver is ready!",
+      "identifier": "News_Change_3",
+      "caption": "the most most advanced jailbreak tool yet ",
+      "tintColor": "5a605c",
+      "imageURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/unc0ver/news.png",
+      "appID": "science.xnu.undecimus",
+      "date": "2020-03-22",
+      "notify": false
+    },
+    {
+      "title": "Play old Classic Again!",
+      "identifier": "News_Change_2",
+      "caption": "iNDS is a great Nintendo DS Emulator for iOS devices",
+      "tintColor": "f36409",
+      "imageURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/iNDS/news.png",
+      "appID": "net.nerd.iNDS-true",
+      "date": "2020-03-08",
+      "notify": false
+    },
+    {
+      "title": "Feel the beat",
+      "identifier": "News_Change_1",
+      "caption": "Enjoy No ads in spotify for free",
+      "tintColor": "101216",
+      "imageURL": "https://bitbucket.org/bunduuk/altstore/src/master/img/Spotify/news.png",
+      "appID": "com.spotify.client",
+      "date": "2020-02-01",
+      "notify": false
+    }
+  ],
+  "userInfo": {
+
+  }
+}
