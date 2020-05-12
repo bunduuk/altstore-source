@@ -251,7 +251,7 @@
       ]
     },
     {
-      "name": "AltStore",
+      "name": "AltStore Beta",
       "bundleIdentifier": "com.rileytestut.AltStore.Beta",
       "developerName": "Riley Testut",
       "subtitle": "An alternative App Store for iOS.",
@@ -263,7 +263,7 @@
       "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
       "tintColor": "018084",
       "size": 2531143,
-      "beta": true,
+      "beta": false,
       "screenshotURLs": [
         "https://user-images.githubusercontent.com/705880/78942028-acf54300-7a6d-11ea-821c-5bb7a9b3e73a.PNG",
         "https://user-images.githubusercontent.com/705880/78942222-0fe6da00-7a6e-11ea-9f2a-dda16157583c.PNG",
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "name": "Delta",
+      "name": "Delta Beta",
       "bundleIdentifier": "com.rileytestut.Delta.Beta",
       "developerName": "Riley Testut",
       "subtitle": "Classic games in your pocket.",
@@ -293,7 +293,7 @@
       "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
       "tintColor": "8A28F7",
       "size": 18607156,
-      "beta": true,
+      "beta": false,
       "permissions": [
         {
           "type": "photos",
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "name": "Clip",
+      "name": "Clip Beta",
       "bundleIdentifier": "com.rileytestut.Clip.Beta",
       "subtitle": "Manage your clipboard history with ease.",
       "developerName": "Riley Testut",
@@ -321,7 +321,7 @@
       "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
       "tintColor": "EC008C",
       "size": 462771,
-      "beta": true,
+      "beta": false,
       "permissions": [
         {
           "type": "background-audio",
@@ -334,7 +334,7 @@
       ]
     },
     {
-      "name": "Delta Lite",
+      "name": "Delta Lite Beta",
       "bundleIdentifier": "com.rileytestut.Delta.Lite.Beta",
       "developerName": "Riley Testut",
       "subtitle": "The 80s (and 90s) in your pocket.",
@@ -346,7 +346,7 @@
       "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
       "tintColor": "8A28F7",
       "size": 16509767,
-      "beta": true,
+      "beta": false,
       "permissions": [
         {
           "type": "photos",
