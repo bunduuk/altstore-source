@@ -357,9 +357,8 @@
         "https://user-images.githubusercontent.com/705880/65599562-fe673600-df52-11e9-9cfb-b60a11568baf.PNG",
         "https://user-images.githubusercontent.com/705880/65599567-01fabd00-df53-11e9-8654-f075c0f32c59.PNG"
       ]
-    }
-  ],
-    {
+    },
+	{
       "name": "Lensa: Photo Editor",
       "bundleIdentifier": "com.lensa.app",
       "developerName": "Prisma Labs, Inc.",
