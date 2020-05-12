@@ -27,5 +27,5 @@ and
 ## Credits
 * [CrafterPika](https://crafterpika.github.io/AltStore/)
 * [Henri Koivuneva](https://koivuneva.net/)
-* Kartik Ahlawat
+* [Kartik Ahlawat](https://github.com/melvinstark3)
 
