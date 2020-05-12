@@ -19,7 +19,9 @@
 * Delta Lite Beta
 * Lensa: Photo Editor
 
-Repo link: **https://bunduuk.github.io/altstore-source/apps.json**  
+Repo link:  
+**https://bunduuk.github.io/altstore-source/apps.json**  
+![Image of QR Code](https://bunduuk.github.io/altstore-source/qrcode.png)  
 *(My personal repo, will update only when I need the update, though you may ping for the same, but no guarantees given!)*
 
 ## You can find me at:
