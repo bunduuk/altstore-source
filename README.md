@@ -22,7 +22,7 @@
 ## You can find me at:
 [Twitter](https://twitter.com/apurva_leo)
 and
-[apurva.me](apurva.me)
+[apurva.me](https://apurva.me)
 
 ## Credits
 * [CrafterPika](https://crafterpika.github.io/AltStore/)
