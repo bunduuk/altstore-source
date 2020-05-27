@@ -9,13 +9,7 @@
       "subtitle": "iOS torrent client App",
       "version": "1.8",
       "versionDate": "2020-04-30T14:30:00+05:30",
-      "versionDescription": " - Most of the application was rewritten from scratch, no more memory leaks\n
-                              - Significantly improved stability of the app\n
-                              - Memory management implemented\n
-                              - Memory allocation for files before downloading\n
-                              - Libtorrent updated to 1.2.6\n
-                              - UI improvements, noticeable and not so much\n
-                              - Added integration with Patreon",
+      "versionDescription": " - Most of the application was rewritten from scratch, no more memory leaks\n- Significantly improved stability of the app\n- Memory management implemented\n- Memory allocation for files before downloading\n- Libtorrent updated to 1.2.6\n- UI improvements, noticeable and not so much\n- Added integration with Patreon",
       "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/iTorrent/iTorrent.ipa?raw=true",
       "localizedDescription": "iTorrent is a torrent client for iOS with Files app support.",
       "iconURL": "https://bunduuk.github.io/altstore-source/img/iTorrent/icon.png",
@@ -56,10 +50,7 @@
       "versionDate": "2020-05-24T03:30:00+05:30",
       "versionDescription": "Full-fledged support for all devices on iOS 11.0-13.5 with Cydia and tweak injection",
       "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/unc0ver/unc0ver.ipa?raw=true",
-      "localizedDescription": "- Full-fledged support for all devices on iOS 11.0-13.5 with Cydia and tweak injection\n
-							                 - Enable unrestricted storage access to jailbreak applications for sandbox backwards compatibility while keeping security intact by leaving the security restrictions enabled for system and user applications\n
-                               - Update Phone Rebel case models and bundled packages\n
-                              Note: System must be rebooted to apply changes when updating the unc0ver jailbreak.",
+      "localizedDescription": "- Full-fledged support for all devices on iOS 11.0-13.5 with Cydia and tweak injection\n- Enable unrestricted storage access to jailbreak applications for sandbox backwards compatibility while keeping security intact by leaving the security restrictions enabled for system and user applications\n- Update Phone Rebel case models and bundled packages\nNote: System must be rebooted to apply changes when updating the unc0ver jailbreak.",
       "iconURL": "https://bunduuk.github.io/altstore-source/img/unc0ver/icon.png",
       "tintColor": "5a605c",
       "size": 40483648,
