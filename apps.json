@@ -78,14 +78,34 @@
       ]
     },
     {
+      "name": "GBA4iOS",
+      "bundleIdentifier": "com.rileytestut.GBA4iOS",
+      "developerName": "Riley testut",
+      "subtitle": "Game Boy games in your pocket.",
+      "version": "2.1",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "No Changes Recorded",
+      "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/GBA4iOS/GBA4iOS.ipa?raw=true",
+      "localizedDescription": "GBA4iOS is the awesome GBA emulator by Riley Testut!",
+      "iconURL": "https://bunduuk.github.io/altstore-source/img/GBA4iOS/icon.png",
+      "tintColor": "0871da",
+      "size": 7924507,
+      "screenshotURLs": [
+        "https://bunduuk.github.io/altstore-source/img/GBA4iOS/screen1.png",
+        "https://bunduuk.github.io/altstore-source/img/GBA4iOS/screen2.png",
+        "https://bunduuk.github.io/altstore-source/img/GBA4iOS/screen3.png",
+	    	"https://bunduuk.github.io/altstore-source/img/GBA4iOS/screen4.png"
+      ]
+    },
+    {
       "name": "UTM",
       "bundleIdentifier": "com.osy86.UTM",
       "developerName": "osy",
       "subtitle": "Run Virtual Machines on iOS",
-      "version": "1.0-rc3,
-      "versionDate": "2020-05-11T13:30:00+05:30",
-      "versionDescription": "Changelog:\nhttps://github.com/utmapp/UTM/releases/tag/v1.0-rc3",
-      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v1.0-rc3/UTM.ipa",
+      "version": "1.0-rc2",
+      "versionDate": "2020-05-11",
+      "versionDescription": "Changelog:\nhttps://github.com/utmapp/UTM/releases/tag/v1.0-rc2",
+      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v1.0-rc2/UTM.ipa",
       "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad. More information at https://getutm.app/\n\nFeatures:\n\n• Emulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n• Run any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n• Fast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n• High Compatibility\niOS 11+ supported. Works on iPhone and iPad. No jailbreak needed\n• Free and Open Source\nUTM and its dependencies are all free and open source\n• Easy to Use\nConfigure and customize your VM in a native UI",
       "iconURL": "https://bunduuk.github.io/altstore-source/img/UTM/icon.png",
       "tintColor": "1a2cc2",
