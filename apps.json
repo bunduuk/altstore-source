@@ -9,13 +9,13 @@
       "subtitle": "iOS torrent client App",
       "version": "1.8",
       "versionDate": "2020-04-30T14:30:00+05:30",
-      "versionDescription": " * Most of the application was rewritten from scratch, no more memory leaks\n
-                              * Significantly improved stability of the app\n
-                              * Memory management implemented\n
-                              * Memory allocation for files before downloading\n
-                              * Libtorrent updated to 1.2.6\n
-                              * UI improvements, noticeable and not so much\n
-                              * Added integration with Patreon",
+      "versionDescription": " - Most of the application was rewritten from scratch, no more memory leaks\n
+                              - Significantly improved stability of the app\n
+                              - Memory management implemented\n
+                              - Memory allocation for files before downloading\n
+                              - Libtorrent updated to 1.2.6\n
+                              - UI improvements, noticeable and not so much\n
+                              - Added integration with Patreon",
       "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/iTorrent/iTorrent.ipa?raw=true",
       "localizedDescription": "iTorrent is a torrent client for iOS with Files app support.",
       "iconURL": "https://bunduuk.github.io/altstore-source/img/iTorrent/icon.png",
@@ -56,9 +56,9 @@
       "versionDate": "2020-05-24T03:30:00+05:30",
       "versionDescription": "Full-fledged support for all devices on iOS 11.0-13.5 with Cydia and tweak injection",
       "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/unc0ver/unc0ver.ipa?raw=true",
-      "localizedDescription": "* Full-fledged support for all devices on iOS 11.0-13.5 with Cydia and tweak injection\n
-							                 * Enable unrestricted storage access to jailbreak applications for sandbox backwards compatibility while keeping security intact by leaving the security restrictions enabled for system and user applications\n
-                               * Update Phone Rebel case models and bundled packages\n
+      "localizedDescription": "- Full-fledged support for all devices on iOS 11.0-13.5 with Cydia and tweak injection\n
+							                 - Enable unrestricted storage access to jailbreak applications for sandbox backwards compatibility while keeping security intact by leaving the security restrictions enabled for system and user applications\n
+                               - Update Phone Rebel case models and bundled packages\n
                               Note: System must be rebooted to apply changes when updating the unc0ver jailbreak.",
       "iconURL": "https://bunduuk.github.io/altstore-source/img/unc0ver/icon.png",
       "tintColor": "5a605c",
@@ -86,7 +86,6 @@
         "https://bunduuk.github.io/altstore-source/img/FlappyBird/screen2.png"
       ]
     },
-
     {
       "name": "UTM",
       "bundleIdentifier": "com.osy86.UTM",
@@ -444,6 +443,24 @@
         "https://user-images.githubusercontent.com/705880/65599562-fe673600-df52-11e9-9cfb-b60a11568baf.PNG",
         "https://user-images.githubusercontent.com/705880/65599567-01fabd00-df53-11e9-8654-f075c0f32c59.PNG"
       ]
+    },
+    {
+    "name": "Lensa: Photo Editor",
+    "bundleIdentifier": "com.lensa.app",
+    "developerName": "Prisma Labs, Inc.",
+    "subtitle": "One touch Photo Editor",
+    "version": "2.0.7",
+    "versionDate": "2020-5-02",
+    "versionDescription": "No changes recorded",
+    "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/Lensa/Lensa2.0.7.ipa?raw=true",
+    "localizedDescription": "Lensa is a brand new way of making your selfies look better, than you could have ever imagined. Forget about conventional filters and photo editing tools. We bring you the simplest, yet the most practical mobile app to date for perfecting your selfies on the go. So, if there’s anything you think should be corrected in your selfie, you now have this amazing, simple app to help you. To unlock unlimited photos, tap on purchase and then cancel!",
+    "iconURL": "https://bunduuk.github.io/altstore-source/img/Lensa/icon.png",
+    "tintColor": "00ffd9",
+    "size": 49208000,
+    "screenshotURLs": [
+      "https://bunduuk.github.io/altstore-source/img/Lensa/screen1.png",
+      "https://bunduuk.github.io/altstore-source/img/Lensa/screen2.png"
+    ]
     }
   ],
   "news": [
