@@ -78,26 +78,6 @@
       ]
     },
     {
-      "name": "GBA4iOS",
-      "bundleIdentifier": "com.rileytestut.GBA4iOS",
-      "developerName": "Riley testut",
-      "subtitle": "Game Boy games in your pocket.",
-      "version": "2.1",
-      "versionDate": "2020-03-24T14:30:00-07:00",
-      "versionDescription": "No Changes Recorded",
-      "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/GBA4iOS/GBA4iOS.ipa?raw=true",
-      "localizedDescription": "GBA4iOS is the awesome GBA emulator by Riley Testut!",
-      "iconURL": "https://bunduuk.github.io/altstore-source/img/GBA4iOS/icon.png",
-      "tintColor": "0871da",
-      "size": 7924507,
-      "screenshotURLs": [
-        "https://bunduuk.github.io/altstore-source/img/GBA4iOS/screen1.png",
-        "https://bunduuk.github.io/altstore-source/img/GBA4iOS/screen2.png",
-        "https://bunduuk.github.io/altstore-source/img/GBA4iOS/screen3.png",
-	    	"https://bunduuk.github.io/altstore-source/img/GBA4iOS/screen4.png"
-      ]
-    },
-    {
       "name": "UTM",
       "bundleIdentifier": "com.osy86.UTM",
       "developerName": "osy",
