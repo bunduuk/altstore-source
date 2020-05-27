@@ -193,6 +193,25 @@
       ]
     },
     {
+      "name": "Watusi for WhatsApp Duplicate",
+      "bundleIdentifier": "com.fouadraheb.watusi",
+      "developerName": "Fouad Raheb",
+      "subtitle": "Get more features in WhatsApp with Duplicate",
+      "version": "2.20.51",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "Watusi	1.2.40, Stalky 4.1.3",
+      "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/WhatsAppDuplicate/WhatsAppDuplicate.ipa?raw=true",
+      "localizedDescription": "Option to have another WhatsApp\n\n WhatsApp Watusi brings a bunch of useful new features to WhatsApp such as:\n\n - Disable read receipts\n - Freeze your last seen status\n - Disable delivery and typing indicators\n - Select unlimited number of photos to send\n - Password-protect the app\n - Call recorder\n - Lock chats\n - Enables send button while offline\n - Customization of the app's user interface",
+      "iconURL": "https://bunduuk.github.io/altstore-source/img/WhatsApp/icon.png",
+      "tintColor": "0af309",
+      "size": 89559040,
+      "screenshotURLs": [
+        "https://bunduuk.github.io/altstore-source/img/WhatsApp/screen1.png",
+        "https://bunduuk.github.io/altstore-source/img/WhatsApp/screen2.png",
+        "https://bunduuk.github.io/altstore-source/img/WhatsApp/screen3.png"
+      ]
+    },
+    {
       "name": "FilzaEscaped 13.4.1",
       "bundleIdentifier": "com.dry05.filzaescaped11-12",
       "developerName": "@AppleDry05",
